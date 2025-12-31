@@ -54,7 +54,7 @@
     "react-markdown": "^10.1.0",
     "react-window": "^2.2.3",
     "redis": "^4.6.7",
-    "remark-gfm": "^4.0.1",
+    "remark-gfm": "^3.0.1",
     "socket.io": "^4.8.1",
     "socket.io-client": "^4.8.1",
     "swiper": "^11.2.8",
